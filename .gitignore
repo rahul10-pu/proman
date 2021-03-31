@@ -1,0 +1,13 @@
+proman-api/target
+proman-db/target
+proman-service/target
+proman-api/.settings
+proman-db/.settings
+proman-service/.settings
+proman-api/.project
+proman-db/.project
+proman-service/.project
+proman-api/.classpath
+proman-db/.classpath
+proman-service/.classpath
+.project
